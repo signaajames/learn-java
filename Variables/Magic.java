@@ -2,7 +2,7 @@ package Variables;
 
 public class Magic {
     public static void main(String[] args)  {
-        int myNumber =  1; //Original number
+        int myNumber =  15; //Original number
 
         int step1 = myNumber * myNumber;
 

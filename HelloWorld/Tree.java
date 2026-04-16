@@ -1,3 +1,5 @@
+package HelloWorld;
+
 public class Tree {
     public static void main(String[] args) {
         // I am doctor james and we will plant a tree
